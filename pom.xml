@@ -36,6 +36,11 @@
             <artifactId>jquery</artifactId>
             <version>3.6.3</version>
         </dependency>
+        <dependency>
+            <groupId>org.webjars.npm</groupId>
+            <artifactId>jquery</artifactId>
+            <version>3.6.3</version>
+        </dependency>
     </dependencies>
 
     <build>
