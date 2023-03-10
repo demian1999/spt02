@@ -1,0 +1,15 @@
+logging:
+  level:
+    cn.zc.bbz: trace
+---
+
+server:
+  port: 8082
+spring:
+  profiles: dev
+---
+
+server:
+  port: 8083
+spring:
+  profiles: test
